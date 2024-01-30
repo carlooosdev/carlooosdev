@@ -28,9 +28,9 @@ Here are some notable projects and contributions I have worked on:
 
 - [2Auth Safer](https://github.com/carlooosdev/2AuthSafer) - 2Auth Safer is an extension under development for authentication of OTP/TOTP codes. 
 
-- [EasyPGP](https://github.com/carlooosdev/easypgp) - EasyPGP is a simple website made in HTML, CSS and JS using OpenPGP.js that helps you handle PGP keys.
-
 - [Bashwords](https://github.com/carlooosdev/bashwords) - Bashwords is a simple password manager made using BASH. This one is for those who like minimal-terminal style software.
+
+- [EasyPGP](https://github.com/carlooosdev/easypgp) - EasyPGP is a simple website made in HTML, CSS and JS using OpenPGP.js that helps you handle PGP keys.
 
 - [Clicker](https://github.com/carlooosdev/clicker) - Clicker is a simple auto clicker made in C.
 
