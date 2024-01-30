@@ -26,6 +26,8 @@ I'm Carlos, a full stack enthusiast and a passionate student. Welcome to my GitH
 
 Here are some notable projects and contributions I have worked on:
 
+- [EasyPGP](https://github.com/carlooosdev/easypgp) - EasyPGP is a simple website made in HTML, CSS and JS using OpenPGP.js that helps you handle PGP keys.
+
 - [Bashwords](https://github.com/carlooosdev/bashwords) - Bashwords is a simple password manager made using BASH. This one is for those who like minimal-terminal style software.
 
 - [Clicker](https://github.com/carlooosdev/clicker) - Clicker is a simple auto clicker made in C.
