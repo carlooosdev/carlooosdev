@@ -30,6 +30,8 @@ Here are some notable projects and contributions I have worked on:
 
 - [Bashwords](https://github.com/carlooosdev/bashwords) - Bashwords is a simple password manager made using BASH. This one is for those who like minimal-terminal style software.
 
+- [Clicker](https://github.com/carlooosdev/clicker) - Clicker is a simple auto clicker made in C.
+
 Feel free to explore my repositories for more projects and contributions!
 
 ---
