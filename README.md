@@ -16,10 +16,8 @@ I'm Carlos, a full stack enthusiast and a passionate student. Welcome to my GitH
 ---
 
 <p align="center">
-  <a href="https://github.com/carlooosdev">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=carlooosdev&count_private=true&show_icons=true&theme=dark" alt="Carlos's GitHub Stats">
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=carlooosdev&theme=dark&layout=compact" alt="Carlos's Top Languages">
-  </a>
 </p>
 
 ---
